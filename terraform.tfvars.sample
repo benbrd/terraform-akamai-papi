@@ -1,0 +1,9 @@
+contract_id	= "XXXXX"
+group_name = "XXXXX"
+hostname = ["www.example.com"]
+origin_hostname = "origin-www.example.com"
+edge_hostname = "www.example.com.edgesuite.net"
+cpcode_name = "example-cpCode"
+
+akamai_network  = "STAGING"
+email = ["contact@example.com"]
