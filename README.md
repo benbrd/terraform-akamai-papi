@@ -131,16 +131,19 @@ No modules.
 | <a name="output_property_id"></a> [property\_id](#output\_property\_id) | n/a |
 
 # Contributing
-
+  
 We're happy to accept help from fellow code-monkeys.
-Report issues/questions/feature requests on in the [issues](https://github.com/brrbrr/terraform-akamai-core-new-security-configuration/issues) section.
-Refer to the [contribution guidelines](./contributing.md) for information on contributing to this module.
-
+Use issues section to track ideas, feedback, tasks, or bugs.
+Refer to the [contribution guidelines](./contributing.md) for information on contributing to this project.
 # Authors
 
-- [@Benjamin Brouard](https://www.github.com/brrbrr), Security Professional Services @Akamai.
-
+![@Benjamin Brouard](https://img.shields.io/badge/Benjamin%20Brouard-Security%20Professional%20Services%20%40%20Akamai-blue?logo=akamai&link=https://git.source.akamai.com/users/bbrouard/)
+  
 # License
 
 [Apache License 2](https://choosealicense.com/licenses/apache-2.0/). See [LICENSE](./LICENSE.md) for full details.
+
+-----------------
+
+![Made with love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20France-EF4135?labelColor=0055A4)
 <!-- END_AUTOMATED_TF_DOCS_BLOCK -->
